@@ -8,6 +8,6 @@ It is important that the data available from these records should be cleaned, pr
 Here in this repository I am adding some examples and real life scenarios where the power of NLP can be utilized in answering questions, automatic labelling of data using pre defined datasets and many more...<br>
 
 Description<br>
-
+File Paths<br>
 answer.ipynb -- question answering simple model <br>
 data annotaion -- NLP/extracted_data.ipynb
